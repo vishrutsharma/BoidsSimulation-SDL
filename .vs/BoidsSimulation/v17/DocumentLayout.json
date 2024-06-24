@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\FlockController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|solutionrelative:FlockController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\FlockController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|solutionrelative:FlockController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Boid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|solutionrelative:Boid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|solutionrelative:Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Boid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6357E52B-5333-47DC-9CBF-99CFF1F51409}|BoidsSimulation.vcxproj|solutionrelative:Boid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Vishrut\\Paths\\VisualStudio\\nlohmann\\json.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\include\\json.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\json.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vector2.h",
+              "DocumentMoniker": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Vector2.h",
+              "RelativeDocumentMoniker": "Vector2.h",
+              "ToolTip": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Vector2.h",
+              "RelativeToolTip": "Vector2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-23T20:50:17.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Boid.cpp",
+              "DocumentMoniker": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Boid.cpp",
+              "RelativeDocumentMoniker": "Boid.cpp",
+              "ToolTip": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Boid.cpp",
+              "RelativeToolTip": "Boid.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T20:12:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-23T20:05:07.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Boid.h",
+              "DocumentMoniker": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Boid.h",
+              "RelativeDocumentMoniker": "Boid.h",
+              "ToolTip": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Boid.h",
+              "RelativeToolTip": "Boid.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-23T20:02:42.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "json.hpp",
+              "DocumentMoniker": "C:\\Vishrut\\Paths\\VisualStudio\\nlohmann\\json.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Paths\\VisualStudio\\nlohmann\\json.hpp",
+              "ToolTip": "C:\\Vishrut\\Paths\\VisualStudio\\nlohmann\\json.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Paths\\VisualStudio\\nlohmann\\json.hpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-23T19:38:18.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "json.hpp",
+              "DocumentMoniker": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\include\\json.hpp",
+              "RelativeDocumentMoniker": "include\\json.hpp",
+              "ToolTip": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\include\\json.hpp",
+              "RelativeToolTip": "include\\json.hpp",
+              "ViewState": "AQIAAJYDAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-23T19:29:47.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlockController.cpp",
+              "DocumentMoniker": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\FlockController.cpp",
+              "RelativeDocumentMoniker": "FlockController.cpp",
+              "ToolTip": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\FlockController.cpp",
+              "RelativeToolTip": "FlockController.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T11:20:06.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlockController.h",
+              "DocumentMoniker": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\FlockController.h",
+              "RelativeDocumentMoniker": "FlockController.h",
+              "ToolTip": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\FlockController.h",
+              "RelativeToolTip": "FlockController.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-23T11:13:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Vishrut\\Programming\\PersonalProjects\\VisualStudio\\SDL2\\BoidsSimulation\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-17T10:08:07.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
