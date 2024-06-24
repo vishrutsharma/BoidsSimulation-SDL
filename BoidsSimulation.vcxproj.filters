@@ -15,27 +15,30 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp">
+    <ClCompile Include="src\Boid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FlockController.cpp">
+    <ClCompile Include="src\FlockController.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Boid.cpp">
+    <ClCompile Include="src\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Utils.h">
-      <Filter>Header Files</Filter>
+    <ClCompile Include="Vector2.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="FlockController.h">
+    <ClInclude Include="src\Boid.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Boid.h">
+    <ClInclude Include="src\FlockController.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Vector2.h">
+    <ClInclude Include="src\Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Vector2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
