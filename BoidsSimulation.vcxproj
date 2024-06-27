@@ -18,6 +18,28 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Allignment.cpp" />
+    <ClCompile Include="src\Boid.cpp" />
+    <ClCompile Include="src\BoidsBehaviour.cpp" />
+    <ClCompile Include="src\BoidsController.cpp" />
+    <ClCompile Include="src\Cohesion.cpp" />
+    <ClCompile Include="src\Main.cpp" />
+    <ClCompile Include="src\Seperation.cpp" />
+    <ClCompile Include="src\Utils.cpp" />
+    <ClCompile Include="src\Vector2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Allignment.h" />
+    <ClInclude Include="src\Behaviour.h" />
+    <ClInclude Include="src\Boid.h" />
+    <ClInclude Include="src\BoidsBehaviour.h" />
+    <ClInclude Include="src\BoidsController.h" />
+    <ClInclude Include="src\Cohesion.h" />
+    <ClInclude Include="src\Seperation.h" />
+    <ClInclude Include="src\Utils.h" />
+    <ClInclude Include="src\Vector2.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -131,18 +153,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="src\Boid.cpp" />
-    <ClCompile Include="src\FlockController.cpp" />
-    <ClCompile Include="src\Main.cpp" />
-    <ClCompile Include="Vector2.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="src\Boid.h" />
-    <ClInclude Include="src\FlockController.h" />
-    <ClInclude Include="src\Utils.h" />
-    <ClInclude Include="src\Vector2.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

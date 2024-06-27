@@ -1,14 +1,13 @@
 #include <SDL.h>
 #include <iostream>
-#include "FlockController.h";
-
+#include "BoidsController.h";
 
 const int SCREEN_WIDTH = 1020;
 const int SCREEN_HEIGHT = 800;
 
 SDL_Window* mWindow = NULL;
 SDL_Renderer* mRenderer = NULL;
-FlockController mFlockController;
+BoidsController mBoidController;
 
 void Close()
 {
@@ -57,8 +56,7 @@ int SDL_main(int argc, char* argv[])
 
 	}
 
-	
-	mFlockController.Initialise();
+	mBoidController.Initialise();
 
 	bool quit = false;
 	SDL_Event mEvent;
@@ -70,11 +68,17 @@ int SDL_main(int argc, char* argv[])
 			{
 				quit = true;
 			}
+			else if (mEvent.type == SDL_MOUSEMOTION)
+			{
+				int x, y;
+				SDL_GetMouseState(&x, &y);
+				mBoidController.SetTarget(x, y);
+			}
 		}
 
 		SDL_SetRenderDrawColor(mRenderer, 0xFF, 0xFF, 0xFF, 0xFF);
 		SDL_RenderClear(mRenderer);
-		mFlockController.Update(mRenderer);
+		mBoidController.Update(mRenderer);
 		SDL_RenderPresent(mRenderer);
 	}
 

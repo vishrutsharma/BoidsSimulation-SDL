@@ -1,7 +1,7 @@
 #pragma once
 struct Vector2
 {
-	Vector2();
+	Vector2() :x(0), y(0) {}
 	Vector2(float xPos, float yPos) :x(xPos), y(yPos) {}
 
 	Vector2 operator+(const Vector2& nVector) const
@@ -16,5 +16,4 @@ struct Vector2
 
 	float x;
 	float y;
-
 };
