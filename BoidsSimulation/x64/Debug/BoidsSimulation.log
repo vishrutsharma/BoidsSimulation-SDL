@@ -1,10 +1,10 @@
-﻿  BoidsBehaviour.cpp
-  BoidsController.cpp
-C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(4,12): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(7,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(8,13): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(9,16): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(13,15): warning C4305: 'initializing': truncation from 'double' to 'const float'
+﻿  BoidsController.cpp
+C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(7,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(10,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(11,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(12,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(15,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\BoidsController.cpp(16,15): warning C4305: 'initializing': truncation from 'double' to 'float'
   Main.cpp
 C:\Vishrut\Programming\PersonalProjects\VisualStudio\SDL2\BoidsSimulation\src\Main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   Generating Code...

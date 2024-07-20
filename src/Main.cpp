@@ -1,8 +1,9 @@
 #include <SDL.h>
 #include <iostream>
 #include "BoidsController.h";
+#include "Singleton.h"
 
-const int SCREEN_WIDTH = 1020;
+const int SCREEN_WIDTH = 1080;
 const int SCREEN_HEIGHT = 800;
 
 SDL_Window* mWindow = NULL;
@@ -75,9 +76,10 @@ int SDL_main(int argc, char* argv[])
 				mBoidController.SetTarget(x, y);
 			}
 		}
-
-		SDL_SetRenderDrawColor(mRenderer, 0xFF, 0xFF, 0xFF, 0xFF);
+	
+		SDL_SetRenderDrawColor(mRenderer, 0x00, 0x00, 0x00, 0x00);
 		SDL_RenderClear(mRenderer);
+		Singleton::GetInstance().Update();
 		mBoidController.Update(mRenderer);
 		SDL_RenderPresent(mRenderer);
 	}

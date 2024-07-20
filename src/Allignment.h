@@ -4,5 +4,6 @@
 class Allignment : public Behaviour
 {
 public:
-	void Process() override;
+	Allignment();
+	void Process(Boid&, std::vector<Boid>&, float range, float factor) override;
 };

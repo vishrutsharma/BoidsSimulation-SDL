@@ -4,5 +4,6 @@
 class Cohesion : public Behaviour
 {
 public:
-	void Process() override;
+	Cohesion();
+	void Process(Boid&, std::vector<Boid>&, float range, float factor) override;
 };

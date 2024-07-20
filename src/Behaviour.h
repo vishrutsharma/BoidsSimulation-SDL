@@ -5,5 +5,5 @@
 class Behaviour
 {
 public:
-	virtual void Process(Boid& boid, std::vector<Boid>& boids,)=0;
+	virtual void Process(Boid&, std::vector<Boid>&,float range,float factor)=0;
 };

@@ -5,7 +5,7 @@
 #include <vector>
 #include "Boid.h"
 #include "Utils.h"
-#include "BoidsBehaviour.h"
+#include "Behaviour.h"
 
 const int BOIDS_LENGTH = 500;
 
@@ -19,16 +19,18 @@ public:
 	void SetTarget(int xScreenPos,int yScreenPos);
 
 private:		
-		const float turnFactor;
-		const float visualRange;
-		const float protectedRange;
-		const float centeringFactor;
-		const float avoidFactor;
-		const float matchingFactor;
-		const float maxSpeed;
-		const float minSpeed;
-		const float maxBias;
-		const float biasIncrement;
+		 float turnFactor;
+		 float visualRange;
+		 float protectedRange;
+		 float centeringFactor;
+		 float avoidFactor;
+		 float matchingFactor;
+		 int maxSpeed;
+		 int minSpeed;
+		 float maxBias;
+		 float biasIncrement;
 		std::vector<Boid> boids;	
-		BoidsBehaviour boidsBehaviour;
+		Behaviour* allignment;
+		Behaviour* seperation;
+		Behaviour* cohesion;
 };
